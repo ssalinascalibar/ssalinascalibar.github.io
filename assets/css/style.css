@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: #455A64;
+}
+
 /* Hero Section */
 
 #hero-section {
@@ -18,5 +22,22 @@
 .mis-proyectos h1{
     text-align: center;
     margin-bottom: 10px;
+}
+
+/* Acerca de mi section */
+
+.acerca-de-mi{
+    text-align: center;
+}
+
+.acerca-de-mi h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #263238;
+    color: #90A4AE;
 }
 
