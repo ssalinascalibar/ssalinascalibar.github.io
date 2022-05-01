@@ -41,8 +41,14 @@ i{
     margin-bottom: 10px;
 }
 
+/* footer */
+
 footer{
-    background-color: #263238;
+    background-color: #000000;
+
+}
+
+footer p{
     color: #90A4AE;
 }
 
