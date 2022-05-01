@@ -13,8 +13,10 @@
     background-position: left;
 }
 
-/* mis proyectos */
+/* Mis proyectos section */
 
-/* .card img{
-    filter: grayscale(100%);
-} */
+.mis-proyectos h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
