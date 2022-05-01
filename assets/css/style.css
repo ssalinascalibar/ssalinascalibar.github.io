@@ -4,8 +4,13 @@
     box-sizing: border-box;
 }
 
-h1{
+h1, h3{
     color: #455A64;
+}
+
+
+i{
+    color: #78909C;
 }
 
 /* Hero Section */
