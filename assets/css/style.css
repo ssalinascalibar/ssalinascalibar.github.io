@@ -12,3 +12,9 @@
     background-size: cover;
     background-position: left;
 }
+
+/* mis proyectos */
+
+.card img{
+    filter: grayscale(100%);
+}
