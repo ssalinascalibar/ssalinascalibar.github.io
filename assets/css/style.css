@@ -4,14 +4,6 @@
     box-sizing: border-box;
 }
 
-h1, h3, p{
-    color: #455A64;
-}
-
-
-i{
-    color: #78909C;
-}
 
 /* Hero Section */
 
@@ -22,33 +14,16 @@ i{
     background-position: left;
 }
 
+
 /* Mis proyectos section */
 
-.mis-proyectos h1{
+.mis-proyectos h1 {
     text-align: center;
     margin-bottom: 10px;
 }
 
-/* Acerca de mi section */
-
-.acerca-de-mi{
-    text-align: center;
+.efectos:hover {
+    transform: scale(0.8);
+    border-radius: 30px;
+    transition: all 0.5s ease;
 }
-
-.acerca-de-mi h1{
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 10px;
-}
-
-/* footer */
-
-footer{
-    background-color: #000000;
-
-}
-
-footer p{
-    color: #90A4AE;
-}
-
